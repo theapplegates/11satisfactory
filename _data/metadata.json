@@ -1,7 +1,7 @@
 {
-  "title": "Eleventy Satisfactory",
-  "url": "https://code.mendhak.com/eleventy-satisfactory/",
-  "pathPrefix": "/eleventy-satisfactory/",
+  "title": "Living Life",
+  "url": "https://mini.paulapplegate.com",
+  "pathPrefix": "/",
   "language": "en",
   "paginationSize": 4,
   "favicon": "/assets/images/favicon.png",
@@ -16,7 +16,7 @@
   "author": {
     "name": "mendhak",
     "email": "",
-    "url": "https://github.com/mendhak/eleventy-satisfactory"
+    "url": "https://github.com/theapplegates/11satisfactory"
   },
   "opengraph": {
     "image": "/assets/images/article.png",
